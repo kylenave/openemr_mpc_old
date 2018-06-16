@@ -1,0 +1,24 @@
+20180128:120152 EDI_History Setup should not overwrite existing data.<br>
+Setup: directory /var/www/openemr/sites/default/edi<br>
+created folder /var/www/openemr/sites/default/edi/history<br>
+created folder /var/www/openemr/sites/default/edi/history/csv<br>
+created folder /var/www/openemr/sites/default/edi/history/archive<br>
+created folder /var/www/openemr/sites/default/edi/history/log<br>
+created folder /var/www/openemr/sites/default/edi/history/tmp
+folder for f837 exists /var/www/openemr/sites/default/edi<br>
+created type folder /var/www/openemr/sites/default/edi/history/f997<br>
+created type folder /var/www/openemr/sites/default/edi/history/f276<br>
+created type folder /var/www/openemr/sites/default/edi/history/f277<br>
+created type folder /var/www/openemr/sites/default/edi/history/f270<br>
+created type folder /var/www/openemr/sites/default/edi/history/f271<br>
+created type folder /var/www/openemr/sites/default/edi/history/f278<br>
+
+20180128:120152 _GET request 
+ srvinfo => yes 
+20180128:120152 _GET request 
+ archlist => yes 
+20180128:120152 csv_archive_select_list: using /var/www/openemr/sites/default/edi/history/archive
+20180128:120152 _GET request 
+ loglist => yes 
+20180128:120152 _GET request 
+ csvtbllist => yes 

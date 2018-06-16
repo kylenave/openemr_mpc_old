@@ -1,0 +1,6 @@
+[17-Jan-2016 15:32:01 America/Denver] PHP Notice:  Undefined variable: access_group in /var/www/openemrTest/interface/usergroup/usergroup_admin.php on line 38
+[17-Jan-2016 15:32:03 America/Denver] PHP Notice:  Undefined index: mode in /var/www/openemrTest/interface/usergroup/user_admin.php on line 18
+[17-Jan-2016 15:32:18 America/Denver] PHP Notice:  Undefined index: access_group in /var/www/openemrTest/interface/usergroup/usergroup_admin.php on line 41
+[23-Jan-2016 09:19:54 America/Denver] PHP Notice:  Undefined variable: access_group in /var/www/openemrTest/interface/usergroup/usergroup_admin.php on line 38
+[23-Jan-2016 09:20:06 America/Denver] PHP Notice:  Undefined index: mode in /var/www/openemrTest/interface/usergroup/user_admin.php on line 18
+[23-Jan-2016 09:20:17 America/Denver] PHP Notice:  Undefined index: access_group in /var/www/openemrTest/interface/usergroup/usergroup_admin.php on line 41

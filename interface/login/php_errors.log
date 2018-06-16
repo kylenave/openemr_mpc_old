@@ -1,0 +1,3 @@
+[16-Jun-2018 16:28:37 America/Denver] PHP Warning:  reset() expects parameter 1 to be array, boolean given in /var/www/openemrTest/library/sql.inc on line 72
+[16-Jun-2018 16:28:37 America/Denver] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in /var/www/openemrTest/library/sql.inc on line 494
+[16-Jun-2018 16:28:37 America/Denver] PHP Fatal error:  Call to undefined function text() in /var/www/openemrTest/library/sql.inc on line 549

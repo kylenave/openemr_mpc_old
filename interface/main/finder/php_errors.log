@@ -1,0 +1,24 @@
+[22-Jan-2016 17:29:01 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:29:07 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:29:10 America/Denver] PHP Notice:  Use of undefined constant Employer - assumed 'Employer' in /var/www/openemrTest/library/patient.inc on line 464
+[22-Jan-2016 17:29:10 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:29:15 America/Denver] PHP Notice:  Use of undefined constant Employer - assumed 'Employer' in /var/www/openemrTest/library/patient.inc on line 464
+[22-Jan-2016 17:29:15 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:34:36 America/Denver] PHP Notice:  Use of undefined constant Employer - assumed 'Employer' in /var/www/openemrTest/library/patient.inc on line 464
+[22-Jan-2016 17:34:36 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:34:55 America/Denver] PHP Notice:  Use of undefined constant Employer - assumed 'Employer' in /var/www/openemrTest/library/patient.inc on line 464
+[22-Jan-2016 17:34:55 America/Denver] PHP Notice:  Undefined variable: returnval in /var/www/openemrTest/library/patient.inc on line 481
+[22-Jan-2016 17:34:55 America/Denver] PHP Notice:  Undefined variable: returnval in /var/www/openemrTest/library/patient.inc on line 482
+[22-Jan-2016 17:34:55 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:34:59 America/Denver] PHP Notice:  Use of undefined constant Employer - assumed 'Employer' in /var/www/openemrTest/library/patient.inc on line 464
+[22-Jan-2016 17:34:59 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:36:17 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:36:23 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:36:27 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:36:39 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:36:46 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:36:49 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:36:56 America/Denver] PHP Notice:  Use of undefined constant Employer - assumed 'Employer' in /var/www/openemrTest/library/patient.inc on line 464
+[22-Jan-2016 17:36:56 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
+[22-Jan-2016 17:36:57 America/Denver] PHP Notice:  Use of undefined constant Employer - assumed 'Employer' in /var/www/openemrTest/library/patient.inc on line 464
+[22-Jan-2016 17:36:57 America/Denver] PHP Notice:  Undefined variable: print_patients in /var/www/openemrTest/interface/main/finder/patient_select.php on line 509
